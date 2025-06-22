@@ -171,7 +171,6 @@ Enjoy your enhanced cricket experience! 🏏✨
 - **[Installation Guide](INSTALL.md)** - Detailed setup instructions for all platforms
 - **[Technology Stack](docs/TECH_STACK.md)** - Complete technical documentation
 - **[Project Structure](PROJECT_STRUCTURE.md)** - File organization and architecture
-- **[Conversation Prompts](CONVERSATION_PROMPTS.txt)** - Complete development session documentation
 
 ## 🚀 Installation
 
